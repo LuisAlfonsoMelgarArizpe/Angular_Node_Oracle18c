@@ -12,7 +12,7 @@ export class LoginComponent implements OnInit {
   alf = new Alfonso();
 
   constructor(private loginS:LoginService){}
-
+  
   ngOnInit() {
   }
 
